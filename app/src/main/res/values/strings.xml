@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bioapp</string>
+    <string-array name="major_options">
+        <item>Computer Science</item>
+        <item>Engineering</item>
+        <item>Health Professions</item>
+        <item>Psychology</item>
+        <item>Business Administration</item>
+        <item>Biology</item>
+        <item>Communication Studies</item>
+        <item>Education</item>
+        <item>Criminal Justice</item>
+        <item>Political Science</item>
+        <item>Nursing</item>
+        <item>Art and Design</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
